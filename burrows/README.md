@@ -12,12 +12,12 @@ $ javac-algs4 CircularSuffixArray.java
 
 Compression:
 ```
-$ java-algs4 BurrowsWheeler - < inputfilename | java-algs4 MoveToFront - | java-algs4 edu.princeton.cs.algs4.Huffman - >> outputfilename
+$ java-algs4 BurrowsWheeler - < inputfilename | java-algs4 MoveToFront - | java-algs4 edu.princeton.cs.algs4.Huffman - > outputfilename
 ```
 
 Decompression:
 ```
-$ java-algs4 edu.princeton.cs.algs4.Huffman + < inputfilename | java-algs4 MoveToFront + | java-algs4 BurrowsWheeler + >> outputfilename
+$ java-algs4 edu.princeton.cs.algs4.Huffman + < inputfilename | java-algs4 MoveToFront + | java-algs4 BurrowsWheeler + > outputfilename
 ```
 
 ---
