@@ -1,5 +1,8 @@
 # Collinear Points
+
 Given a set of n distinct points in the plane, finds every (maximal) line segment that connects a subset of 4 or more of the points.
+
+[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
 
 ---
 
@@ -35,5 +38,3 @@ $ java-algs4 FastCollinearPoints input6.txt
 Course provided Java file(s):
 * Point.java
 * LineSegment.java
-
-[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)

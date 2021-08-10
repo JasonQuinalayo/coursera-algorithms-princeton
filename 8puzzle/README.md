@@ -2,6 +2,8 @@
 
 8puzzle solver using a minimum priority queue of Hamming or Manhattan distances
 
+[Assignment specification](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
+
 ---
 
 Compilation:  `javac-algs4 Solver.java`
@@ -65,6 +67,3 @@ Course-provided java file(s):
    puzzle44.txt: 44
    puzzle45.txt: 45
  ```
-
-[Assignment specification](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
-

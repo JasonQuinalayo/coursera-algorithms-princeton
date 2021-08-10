@@ -1,5 +1,8 @@
 # Burrows-Wheeler Compression
+
 Transforms an input of bytes using the Burrows-Wheeler Transform algorithm into a format that lends well to the Huffman Compression algorithm 
+
+[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php)
 
 ---
 
@@ -21,5 +24,3 @@ $ java-algs4 edu.princeton.cs.algs4.Huffman + < inputfilename | java-algs4 MoveT
 ```
 
 ---
-
-[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/burrows/specification.php)

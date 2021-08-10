@@ -1,5 +1,8 @@
 # Seam Carving
+
 A content-aware image resizing technique where the image is reduced in size by one pixel of height (or width) at a time
+
+[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php)
 
 ---
 
@@ -61,5 +64,3 @@ Course provided Java file(s):
 * SCUtility.java
 * ShowEnergy.java
 * ShowSeams.java
-
-[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php)

@@ -2,6 +2,8 @@
 
 Boggle solver using DFS and Trie 
 
+[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php)
+
 ---
 
 Compilation:  `javac-algs4 BoggleSolver.java`
@@ -72,5 +74,3 @@ Score = 84
 Course provided Java file(s):
 * BoggleBoard
 * BoggleGame - Boggle game with GUI
-
-[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php)

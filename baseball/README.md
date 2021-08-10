@@ -2,6 +2,8 @@
 
 Baseball Elimination using the Ford-Fulkerson maximum flow algorithm.
 
+[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/baseball/specification.php)
+
 ---
 
 Compilation:  `javac-algs4 BaseballElimination.java`
@@ -43,5 +45,3 @@ Detroit is eliminated by the subset R = { New_York Baltimore Boston Toronto }
 ```
 
 ---
-
-[Assignment Specification](https://coursera.cs.princeton.edu/algs4/assignments/baseball/specification.php)
